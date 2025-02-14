@@ -22,7 +22,7 @@ ANTI_CALL: process.env.ANTI_CALL || "false",
 
 
 
-SESSION_ID: process.env.SESSION_ID || "",
+SESSION_ID: process.env.SESSION_ID || "PRABATH-MD~rLB1lTLD#roC1JXU9pnGHLWpEly4Dx7UNsh4zn4g0xk7dMfYNc04",
 
 
 
